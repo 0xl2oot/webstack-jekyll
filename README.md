@@ -1,4 +1,4 @@
-# [➡️ webstack.0xl2oot.cn](https://webstack.0xl2oot.cn/) - 网址导航
+# ➡️ [webstack.0xl2oot.cn](https://webstack.0xl2oot.cn/) - 网址导航
 
 本项目是 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
 
